@@ -240,6 +240,10 @@ Two free services, both from this repo:
 2. Deploy the frontend with `VITE_API_URL` set to the backend's URL **before** the first build.
 3. Set `ALLOWED_ORIGINS` on the backend to the frontend's URL (with `https://`, no trailing slash).
 
+<p align="center">
+    <img src="./frontend/frontend/public/mochi-talking.png"
+</p>
+
 ## Limitations
 
 - **Public Overpass servers can be slow or rate-limited.** The app retries, tries mirrors and caches results in memory, and it supports a private endpoint.
@@ -248,9 +252,6 @@ Two free services, both from this repo:
 - **The hosted demo sends the city, mood and time of day to Google** for the Gemma call. For full privacy, run it locally with Ollama.
 - **Recommendations are only as good as OpenStreetMap's tags.** Mis-tagged places occasionally slip through.
 
-<p align="center">
-    <img src="./frontend/frontend/public/mochi-talking.png"
-</p>
     
 ## Credits
 
