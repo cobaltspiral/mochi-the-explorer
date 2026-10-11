@@ -237,7 +237,7 @@ Two free services, both from this repo:
 
 ## License
 
-The project is released under the ... license.
+The project is released under the [MIT License](LICENSE).
 
 ## Author
 
