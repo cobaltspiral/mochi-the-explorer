@@ -1,5 +1,10 @@
 # Mochi the Explorer 🩷
 
+<p align="center">
+    <img width="600" height="300" alt="mochi-banner" src="https://github.com/user-attachments/assets/f1786128-673d-44dd-95f1-e02d9f0aca06" />
+</p>
+
+
 [Mochi the Explorer](https://mochitheexplorer.onrender.com/) is a cute wee pixel mascot who helps you rediscover the city or town you already live in.
 
 The inspiration came from two weeks spent trying to organise something new and fun with my friends in the city we've lived in for the past 10 years: 
@@ -28,6 +33,11 @@ The results change between requests, so even locals who feel they've seen it all
 
 Let Mochi find your next favourite spot in town! ✨
 
+<p align="center">
+    <img width="800" height="520" alt="mochi-screens" src="https://github.com/user-attachments/assets/4031cb4c-47a1-4d07-8e3d-6a03bb8a548d" />
+</p>
+
+
 ## Demo
 
 Mochi the Explorer is available here: https://mochitheexplorer.onrender.com/
@@ -37,8 +47,11 @@ You can also watch a wee demo here: https://www.youtube.com/watch?v=_fleqSGD_4k
 _A wee heads up: the backend runs on Render’s free tier and sleeps when idle, 
 so the first request can take about a minute to wake up. 
 But don't despair! Mochi will keep you entertained while you wait:_
+<p align="center"> 
 
-<img width="1200" height="608" alt="mochi-gif" src="https://github.com/user-attachments/assets/5e51de7f-dbc1-4b01-bb6c-590806bfd8d6" />
+<p align="center">
+    <img alt="mochi-gif" width="350" height="175" src="https://github.com/user-attachments/assets/5e51de7f-dbc1-4b01-bb6c-590806bfd8d6" />
+</p>
 
 ## How I built it
 
@@ -56,6 +69,10 @@ and [Leaflet](https://leafletjs.com/) for map visualisation.
 - I used [Gumdrop Studio](https://docs.gumdropstudio.app/) to design the sprite, Mochi.
 
 - Mochi is deployed on Render's free tier.
+
+<p align="center">
+    <img src="./frontend/frontend/public/mochi-happy.png"
+</p>
 
 ## How it works
 
@@ -103,6 +120,11 @@ frontend/
   src/             App.jsx, Mascot.jsx, ResultMap.jsx, useTypewriter.js
   public/          Mochi's sprites
 ```
+
+
+<p align="center">
+    <img src="./frontend/frontend/public/mochi-idle.png"
+</p>
 
 ## Run it locally
 
@@ -185,8 +207,7 @@ Frontend environment variable (baked in at build time):
 |---|---|
 | `VITE_API_URL` | Backend address (with no trailing slash!) |
 
-
-
+    
 ## API
 
 `POST /api/recommend`
@@ -227,6 +248,10 @@ Two free services, both from this repo:
 - **The hosted demo sends the city, mood and time of day to Google** for the Gemma call. For full privacy, run it locally with Ollama.
 - **Recommendations are only as good as OpenStreetMap's tags.** Mis-tagged places occasionally slip through.
 
+<p align="center">
+    <img src="./frontend/frontend/public/mochi-talking.png"
+</p>
+    
 ## Credits
 
 - Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
