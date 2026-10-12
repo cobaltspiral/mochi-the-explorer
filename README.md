@@ -257,8 +257,8 @@ Two free services, both from this repo:
 
 - Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
 - Model: [Gemma](https://ai.google.dev/gemma) by Google.
-- Pixel UI: [NES.css](https://nostalgic-css.github.io/NES.css/) and the [Press Start 2P](fonthttps://fonts.google.com/specimen/Press+Start+2P).
-- Pixel sprite designed with [Gumdrop Studio](gumdrop Studio | Gumdrop Studio).
+- Pixel UI: [NES.css](https://nostalgic-css.github.io/NES.css/) and the [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) font.
+- Pixel sprite designed with [Gumdrop Studio](https://gumdropstudio.app/).
 
 
 ## License
