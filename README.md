@@ -268,4 +268,7 @@ The project is released under the [MIT License](LICENSE).
 ## Author
 
 Mochi the Explorer was built by Paola Ruffo (cobaltspiral) for the [Hacktoberfest Open-Source AI Challenge - Week 1: Touch Grass](https://dev.to/challenges/hacktoberfest-week1-2026-10-05)
-[**Hackathon Write-up**](https://dev.to/cobaltspiral/want-to-touch-grass-but-run-out-of-options-let-mochi-the-explorer-guide-you-to-your-next-favourite-243g)
+
+<br/>
+
+For more details about the project, read the [**hackathon write-up on DEV**](https://dev.to/cobaltspiral/want-to-touch-grass-but-run-out-of-options-let-mochi-the-explorer-guide-you-to-your-next-favourite-243g)!
